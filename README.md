@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SandeepSubramaniyan</h1>
-<h3 align="center">A passionate backend developer from India. I have 6months Internship Experience as Full Stck Developer </h3>
+<h3 align="center">A passionate backend developer from India. I have 6 months Internship Experience as Full Stack Developer </h3>
 
 - 🔭 I’m currently working on [delivery_food_app](https://github.com/Sandeepsubramaniyan/delivery_food_app)
 
