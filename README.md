@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SandeepSubramaniyan</h1>
-<h3 align="center">A passionate Devops Engineer from India. I have completed AWS internhip at F13 Technologys and have knowledge on Devops Tools </h3>
+<h3 align="center">A passionate Devops Engineer from India. I have completed internship on AWS at F13 Technologys and have knowledge on Devops Tools </h3>
 
-- 🔭 I’m currently learning Devops Tools **Jenkins , Docker , Kubernetes**
+- 🔭 I’m currently learning Devops Tools **Terraform , Docker , Kubernetes**
 
 - 📫 How to reach me **sandeepkathiravan@gmail.com**
 
