@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SandeepSubramaniyan</h1>
-<h3 align="center">A passionate backend developer from India. I have 6 months Internship Experience as Full Stack Developer </h3>
+<h3 align="center">A passionate Devops Engineer from India. I have completed AWS internhip at F13 Technologys and have knowledge on Devops Tools </h3>
 
-- 🔭 I’m currently working on [delivery_food_app](https://github.com/Sandeepsubramaniyan/delivery_food_app)
-
-- 🌱 I’m currently learning **Django, Javascript,ReactJS**
+- 🔭 I’m currently learning Devops Tools **Jenkins , Docker , Kubernetes**
 
 - 📫 How to reach me **sandeepkathiravan@gmail.com**
 
